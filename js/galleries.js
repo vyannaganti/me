@@ -18,12 +18,12 @@ jQuery('#gallery1').on('click', function (e) {
             'thumb': 'images/web/op/01.png',
             'subHtml': 'IP & OP Dashboard'
         }, {
-            'src': 'images/web/op/02.png',
-            'thumb': 'images/web/op/02.png',
+            'src': 'images/web/op/02.PNG',
+            'thumb': 'images/web/op/02.PNG',
             'subHtml': "Doctor Visit Details"
         }, {
-            'src': 'images/web/op/03.png',
-            'thumb': 'images/web/op/03.png',
+            'src': 'images/web/op/03.PNG',
+            'thumb': 'images/web/op/03.PNG',
             'subHtml': "Book Appointment"
         }, {
             'src': 'images/web/op/04.png',
@@ -53,20 +53,20 @@ jQuery('#gallery2').on('click', function (e) {
         counter: true,
         // Images
         dynamicEl: [{
-            'src': 'images/web/ip/01.jpg',
-            'thumb': 'images/web/ip/01.jpg',
+            'src': 'images/web/ip/01.JPG',
+            'thumb': 'images/web/ip/01.JPG',
             'subHtml': "IP Login Page"
         }, {
-            'src': 'images/web/ip/02.png',
-            'thumb': 'images/web/ip/02.png',
+            'src': 'images/web/ip/02.PNG',
+            'thumb': 'images/web/ip/02.PNG',
             'subHtml': "Patients View"
         }, {
-            'src': 'images/web/ip/03.png',
-            'thumb': 'images/web/ip/03.png',
+            'src': 'images/web/ip/03.PNG',
+            'thumb': 'images/web/ip/03.PNG',
             'subHtml': "IP Dashboard"
         }, {
-            'src': 'images/web/ip/04.png',
-            'thumb': 'images/web/ip/04.png',
+            'src': 'images/web/ip/04.PNG',
+            'thumb': 'images/web/ip/04.PNG',
             'subHtml': "ER Assesement"
         }, {
             'src': 'images/web/ip/05.png',
