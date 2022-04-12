@@ -26,12 +26,32 @@ jQuery('#gallery1').on('click', function (e) {
             'thumb': 'images/web/op/03.PNG',
             'subHtml': "Book Appointment"
         }, {
-            'src': 'images/web/op/04.png',
-            'thumb': 'images/web/op/04.png',
+            'src': 'images/web/op/04.JPG',
+            'thumb': 'images/web/op/04.JPG',
+            'subHtml': "Visit Details"
+        }, {
+            'src': 'images/web/op/05.JPG',
+            'thumb': 'images/web/op/05.JPG',
+            'subHtml': "Manage Appointment"
+        }, {
+            'src': 'images/web/op/07.JPG',
+            'thumb': 'images/web/op/07.JPG',
+            'subHtml': "Quick Appointment"
+        }, {
+            'src': 'images/web/op/08.JPG',
+            'thumb': 'images/web/op/08.JPG',
+            'subHtml': "Admin Dashboard"
+        }, {
+            'src': 'images/web/op/09.JPG',
+            'thumb': 'images/web/op/09.JPG',
+            'subHtml': "Docotr Creation"
+        }, {
+            'src': 'images/web/op/10.png',
+            'thumb': 'images/web/op/10.png',
             'subHtml': "Smart Report"
         },{
-            'src': 'images/web/op/05.png',
-            'thumb': 'images/web/op/05.png',
+            'src': 'images/web/op/11.png',
+            'thumb': 'images/web/op/11.png',
             'subHtml': "Smart Report 2"
         }]
     })
@@ -69,8 +89,12 @@ jQuery('#gallery2').on('click', function (e) {
             'thumb': 'images/web/ip/04.PNG',
             'subHtml': "ER Assesement"
         }, {
-            'src': 'images/web/ip/05.png',
-            'thumb': 'images/web/ip/05.png',
+            'src': 'images/web/ip/05.JPG',
+            'thumb': 'images/web/ip/05.JPG',
+            'subHtml': "Medication"
+        }, {
+            'src': 'images/web/ip/10.png',
+            'thumb': 'images/web/ip/10.png',
             'subHtml': "Expditure"
         }]
     })
