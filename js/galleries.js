@@ -151,8 +151,8 @@ jQuery('#gallery4').on('click', function (e) {
         counter: true,
         // Images
         dynamicEl: [{
-            'src': 'images/mobile/pp/001.PNG',
-            'thumb': 'images/mobile/pp/001.PNG',
+            'src': 'images/mobile/pp/001.png',
+            'thumb': 'images/mobile/pp/001.png',
             'subHtml': "Splash Page"
         }, {
             'src': 'images/mobile/pp/001a.PNG',
