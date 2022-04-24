@@ -151,12 +151,12 @@ jQuery('#gallery4').on('click', function (e) {
         counter: true,
         // Images
         dynamicEl: [{
-            'src': 'images/mobile/pp/001.png',
-            'thumb': 'images/mobile/pp/001.png',
+            'src': 'images/mobile/pp/001.PNG',
+            'thumb': 'images/mobile/pp/001.PNG',
             'subHtml': "Splash Page"
         }, {
-            'src': 'images/mobile/pp/001a.png',
-            'thumb': 'images/mobile/pp/001a.png',
+            'src': 'images/mobile/pp/001a.PNG',
+            'thumb': 'images/mobile/pp/001a.PNG',
             'subHtml': "Login Page"
         }, {
             'src': 'images/mobile/pp/01.png',
@@ -175,12 +175,12 @@ jQuery('#gallery4').on('click', function (e) {
             'thumb': 'images/mobile/pp/04.png',
             'subHtml': "Doctor Profile"
         }, {
-            'src': 'images/mobile/pp/05.png',
-            'thumb': 'images/mobile/pp/05.png',
+            'src': 'images/mobile/pp/05.PNG',
+            'thumb': 'images/mobile/pp/05.PNG',
             'subHtml': "Doctor Dashboard"
         }, {
-            'src': 'images/mobile/pp/06.png',
-            'thumb': 'images/mobile/pp/06.png',
+            'src': 'images/mobile/pp/06.PNG',
+            'thumb': 'images/mobile/pp/06.PNG',
             'subHtml': "Doctor Nav Sidebar"
         }]
     })
