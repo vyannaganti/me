@@ -155,8 +155,8 @@ jQuery('#gallery4').on('click', function (e) {
             'thumb': 'images/mobile/pp/001.png',
             'subHtml': "Splash Page"
         }, {
-            'src': 'images/mobile/pp/001a.PNG',
-            'thumb': 'images/mobile/pp/001a.PNG',
+            'src': 'images/mobile/pp/001a.png',
+            'thumb': 'images/mobile/pp/001a.png',
             'subHtml': "Login Page"
         }, {
             'src': 'images/mobile/pp/01.png',
@@ -175,12 +175,12 @@ jQuery('#gallery4').on('click', function (e) {
             'thumb': 'images/mobile/pp/04.png',
             'subHtml': "Doctor Profile"
         }, {
-            'src': 'images/mobile/pp/05.PNG',
-            'thumb': 'images/mobile/pp/05.PNG',
+            'src': 'images/mobile/pp/05.png',
+            'thumb': 'images/mobile/pp/05.png',
             'subHtml': "Doctor Dashboard"
         }, {
-            'src': 'images/mobile/pp/06.PNG',
-            'thumb': 'images/mobile/pp/06.PNG',
+            'src': 'images/mobile/pp/06.png',
+            'thumb': 'images/mobile/pp/06.png',
             'subHtml': "Doctor Nav Sidebar"
         }]
     })
